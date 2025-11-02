@@ -15,14 +15,15 @@ Using CPTED (Crime Prevention Through Environmental Design) as a framework, we p
 - UI/UX design
 - Frontend development
 
-### 👨‍💻 Team Member 2 (Backend)
+### 👨‍💻 Team Member 3 (Backend)
 - Backend structure & basic integration
 
-### 👀 Team Member 3 (Project Management)
+### 👀 Team Member 4 (Project Management)
 - Topic selection
 - Documentation & timeline planning
 - Requirement Specification
 - Final Documentation
+- Data analysis
 
 ## 🧭 Project Workflow
 1. **Planning & Coordination**  
